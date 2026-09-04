@@ -9,7 +9,7 @@ Data Analytics has become an essential skill across modern industries because or
 The demand for professionals with **Data Analytics and Python skills** continues to grow as businesses increasingly adopt data-driven approaches. Learning these skills can provide a strong foundation for working with data and developing practical analytical solutions.
 
 ---
-## __Assignment Overview__
+## __Assignment 1 Overview__
 
 This assignment is designed to build a strong foundation in Python programming by practicing basic syntax, variables, operators, calculations, and problem-solving techniques. The tasks focus on applying Python concepts to simple real-world and mathematical problems.
 
