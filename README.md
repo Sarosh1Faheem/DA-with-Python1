@@ -62,13 +62,14 @@ Through these seven tasks, the assignment provides practical experience with:
 The purpose of this course is to develop a practical understanding of **Data Analytics using Python** and to build the foundational programming and analytical skills required to work with data effectively.
 
 ---
+### Institute & Faculty:
+
+* Institute:** SMIT
+* Faculty:** Sir. Ayan Hussain
 
 
 ## Student
 
-**Muhammad Sarosh Faheem**
-**Age:** 30
+* Muhammad Sarosh Faheem**
+* Age:** 30
 **From:** Karachi
-
-**Institute:** SMIT
-**Faculty:** Sir. Ayan Hussain
