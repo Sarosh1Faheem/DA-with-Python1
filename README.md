@@ -64,12 +64,12 @@ The purpose of this course is to develop a practical understanding of **Data Ana
 ---
 ### Institute & Faculty:
 
-* Institute:** SMIT
-* Faculty:** Sir. Ayan Hussain
+* **Institute:** SMIT
+* **Faculty:** Sir. Ayan Hussain
 
 
 ## Student
 
-* Muhammad Sarosh Faheem**
-* Age:** 30
-**From:** Karachi
+* **Name:** Muhammad Sarosh Faheem
+* **Age:** 30
+* **From:** Karachi
